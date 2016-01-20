@@ -7,7 +7,7 @@
 print 'hello'
 urltoscrape='http://www.rockrun.com/'
 print urltoscrape
-myage=27
+print my age=27
 urltoscrape=urltoscrape+'p1'
 print urltoscrape
 # html = scraperwiki.scrape("http://foo.com")
