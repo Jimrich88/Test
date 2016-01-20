@@ -5,7 +5,7 @@
 # import lxml.html
 #
 print 'hello'
-urltoscrape=http://www.rockrun.com/'
+urltoscrape='http://www.rockrun.com/'
 print urlscrape
 # html = scraperwiki.scrape("http://foo.com")
 #
