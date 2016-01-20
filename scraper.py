@@ -5,6 +5,8 @@
 # import lxml.html
 #
 print 'hello'
+urltoscrape=http://www.rockrun.com/'
+print urlscrape
 # html = scraperwiki.scrape("http://foo.com")
 #
 # # Find something on the page using css selectors
