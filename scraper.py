@@ -6,7 +6,7 @@
 #
 print 'hello'
 urltoscrape='http://www.rockrun.com/'
-print urlscrape
+print urltoscrape
 # html = scraperwiki.scrape("http://foo.com")
 #
 # # Find something on the page using css selectors
